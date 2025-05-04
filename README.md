@@ -79,7 +79,4 @@ python deep_analysis.py
 </code></pre>
 
 <h2>👨‍💻 Author</h2>
-<p><strong>Faiq</strong> – Mahasiswa Teknik Informatika, fokus di bidang Data Science dan NLP</p>
-
-<h2>📄 License</h2>
-<p>MIT License</p>
+<p><strong>Faiq</strong> – Teknik Informatika, fokus di bidang Data Science dan NLP</p>
