@@ -47,8 +47,8 @@
 </ul>
 
 <h2>🖼️ Contoh Visualisasi</h2>
-<img src="images/sentiment_distribution.png" width="45%" style="margin-right:10px;" />
-<img src="images/wordcloud_negatif.png" width="45%" />
+<img src="images/download (36).png" width="45%" style="margin-right:10px;" />
+<img src="images/download (37).png" width="45%" />
 
 <h2>🧪 Contoh Prediksi</h2>
 <pre><code>Input  : tempatnya agak kurang, banyak pungli dimana mana
