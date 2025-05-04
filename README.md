@@ -9,7 +9,7 @@
 </ul>
 
 <h2>📁 Dataset</h2>
-<p>Dataset berasal dari kumpulan opini atau review masyarakat mengenai pungli. Dataset disimpan dalam file <code>pungli.csv</code>.</p>
+<p>Dataset berasal dari kumpulan opini atau review masyarakat mengenai pungli. Dataset disimpan dalam file. Source: https://www.google.com/maps/place/Gn.+Pancar/@-6.5916664,106.9016446,15z/data=!3m1!4b1!4m6!3m5!1s0x2e69c78788c45c61:0xa3a314728543d7f5!8m2!3d-6.5916667!4d106.9119444!16s%2Fg%2F113qbs8nv?hl=id&entry=ttu&g_ep=EgoyMDI1MDQzMC4xIKXMDSoASAFQAw%3D%3D <code>pungli.csv</code>.</p>
 
 <h2>⚙️ Preprocessing</h2>
 <p>Langkah-langkah pembersihan data teks dilakukan sebagai berikut:</p>
