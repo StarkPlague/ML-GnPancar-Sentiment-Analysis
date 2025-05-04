@@ -67,9 +67,7 @@ Output : Predicted Sentiment: 2 (Negatif)</code></pre>
 <ul>
   <li><code>pungli.csv</code> – Dataset</li>
   <li><code>modaljalan4.h5</code> – Model hasil training</li>
-  <li><code>model3.tflite</code> – Model versi TFLite</li>
-  <li><code>model_metadata.json</code> – Metadata model</li>
-  <li><code>deep_analysis.ipynb</code> – Notebook analisis</li>
+  <li><code>combined2.txt</code> – Model versi TFLite</li>
 </ul>
 
 <h2>📥 Cara Menjalankan</h2>
